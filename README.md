@@ -1,2 +1,3 @@
-# comfyui-image_psss
-
+{
+  "comment": "多图上传节点"
+}
